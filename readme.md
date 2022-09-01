@@ -7,3 +7,13 @@
 # Working of the model:
 - Click on <b>`Pick Image`</b> and upload any image (Preferably, digit with black background - as the model is trained for such images).
 - Press <b>`Predict`</b> and you will get the results just below.
+
+# Preview:
+<table>
+  <tr>
+    <td><img src="output_images/before_upload.png"/></td>
+  </tr>
+  <tr>
+    <td><img src="output_images/after_upload.png"/></td>
+  </tr>
+</table>
